@@ -1,5 +1,5 @@
 // OpenGLCourseApp.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Wallace Obey 
 
 #include <iostream>
 #include <GL/glew.h>
